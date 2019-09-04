@@ -26,3 +26,18 @@ class Bulbabitch:
     attack_four_name = "Taylor Swift sing " 
     attack_four_dmg = 20
     
+class whiteMander:
+    img = pygame.image.load("/Users/louis/Documents/GitHub/Kortspil-/kortspil/char.png")
+    name = "WhiteMander"
+    hp = 70
+    attack_one_name = "Whitegirl scratch "
+    attack_one_dmg = 15
+    attack_two_name = "pure flames"
+    attack_two_dmg = 25
+    attack_three_name = "Scream"
+    attack_three_dmg = 0
+    attack_four_name = "Taylor Swift sing"
+    attack_four_dmg = 20
+
+#class Bulbabitch:
+    #img = 1 
